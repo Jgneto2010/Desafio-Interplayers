@@ -40,3 +40,45 @@ D:\Projetos-João Garcia\Novo Desafio Interplayers\NewChallengeIterplayersApplic
 D:\Projetos-João Garcia\Novo Desafio Interplayers\NewChallengeIterplayersApplication\NewChallengeIterplayersApplication\obj\Debug\net5.0\ref\NewChallengeIterplayersApplication.dll
 D:\Projetos-João Garcia\Novo Desafio Interplayers\NewChallengeIterplayersApplication\NewChallengeIterplayersApplication\obj\Debug\net5.0\NewChallengeIterplayersApplication.pdb
 D:\Projetos-João Garcia\Novo Desafio Interplayers\NewChallengeIterplayersApplication\NewChallengeIterplayersApplication\obj\Debug\net5.0\NewChallengeIterplayersApplication.genruntimeconfig.cache
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\bin\Debug\net5.0\appsettings.Development.json
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\bin\Debug\net5.0\appsettings.json
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\bin\Debug\net5.0\NewChallengeIterplayersApplication.exe
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\bin\Debug\net5.0\NewChallengeIterplayersApplication.deps.json
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\bin\Debug\net5.0\NewChallengeIterplayersApplication.runtimeconfig.json
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\bin\Debug\net5.0\NewChallengeIterplayersApplication.runtimeconfig.dev.json
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\bin\Debug\net5.0\NewChallengeIterplayersApplication.dll
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\bin\Debug\net5.0\ref\NewChallengeIterplayersApplication.dll
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\bin\Debug\net5.0\NewChallengeIterplayersApplication.pdb
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\bin\Debug\net5.0\FluentValidation.dll
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\bin\Debug\net5.0\Service.dll
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\bin\Debug\net5.0\Service.pdb
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\obj\Debug\net5.0\NewChallengeIterplayersApplication.csprojAssemblyReference.cache
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\obj\Debug\net5.0\NewChallengeIterplayersApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\obj\Debug\net5.0\NewChallengeIterplayersApplication.AssemblyInfoInputs.cache
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\obj\Debug\net5.0\NewChallengeIterplayersApplication.AssemblyInfo.cs
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\obj\Debug\net5.0\NewChallengeIterplayersApplication.csproj.CoreCompileInputs.cache
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\obj\Debug\net5.0\NewChallengeIterplayersApplication.MvcApplicationPartsAssemblyInfo.cs
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\obj\Debug\net5.0\NewChallengeIterplayersApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\obj\Debug\net5.0\staticwebassets\NewChallengeIterplayersApplication.StaticWebAssets.Manifest.cache
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\obj\Debug\net5.0\staticwebassets\NewChallengeIterplayersApplication.StaticWebAssets.xml
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\obj\Debug\net5.0\scopedcss\bundle\NewChallengeIterplayersApplication.styles.css
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\obj\Debug\net5.0\NewChallengeIterplayersApplication.RazorTargetAssemblyInfo.cache
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\obj\Debug\net5.0\NewChallengeIterplayersApplication.csproj.CopyComplete
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\obj\Debug\net5.0\NewChallengeIterplayersApplication.dll
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\obj\Debug\net5.0\ref\NewChallengeIterplayersApplication.dll
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\obj\Debug\net5.0\NewChallengeIterplayersApplication.pdb
+D:\Projetos-João Garcia\DesafioInterplayers\Desafio-Interplayers\NewChallengeIterplayersApplication\obj\Debug\net5.0\NewChallengeIterplayersApplication.genruntimeconfig.cache
